@@ -1,0 +1,200 @@
+header {
+	color: #FFFFFF;
+	height:80px;
+	}
+
+body {
+	margin:0px;
+	}
+
+h1 {
+	margin:0px;
+	font-family: arial black;
+	font-size: 52px;
+	color: #FFFFFF;
+	}
+
+h2 {
+	font-family: arial;
+	font-size: 42px;
+	color: #FFFFFF;
+	margin-bottom: 0;
+	}
+
+
+h3 {
+	font-family: arial;
+	color:#2B95FD;
+	font-size: 36px;
+	margin-bottom: 24px;
+	}
+
+h4 {
+	font-family: arial;
+	font-weight: 200;
+	font-size: 24px;
+	color: #FFFFFF;
+	line-height: 1.5em;
+	margin: 0;
+
+	}
+
+h5 {
+	font-family: arial;
+	font-weight: 200;
+	font-size: 22px;
+	color: #FFFFFF;
+	}
+
+
+
+p {   
+	margin: 0px;
+	font-family: sans-serif;
+	color:#959595;
+	}
+
+.hero-image {
+	background-image: url('../img/hero-photo.png');
+	width: 1366px;
+	height: 720px;
+
+}
+
+.jukebox-logo {
+	position: absolute;
+	top: 29px;
+	left: 70px;
+}
+
+.login {
+	position: absolute;
+	right: 70px;
+	top: 18px;
+}
+
+.subscribe {
+	position: relative;
+	right:15px;
+	display: inline-block;
+}
+
+.floating-text { 
+	position: absolute;
+	margin-top: 220px;
+	left: 209px;
+}
+
+.YourMusicBox{
+	position: relative;
+	text-align: center;
+	margin-bottom: 70px;
+
+
+}
+
+.Music {
+	position: relative;
+	margin-top: 70px;
+
+}
+
+.SubscriptionType {
+	position: relative;
+	text-align: center;
+	width: 1366px;
+} 
+	
+
+.SubscriptionType div {
+	display: inline-block;
+	margin-bottom: 70px;
+	margin-top: 40px;
+}
+
+.SubscriptionType h4{
+	font-family: arial;
+	font-weight: 200;
+	font-size: 24px;
+	color: #FFFFFF;
+	line-height: 1.5em;
+	margin-top: 0;
+	margin-bottom: 40px;
+} 
+
+.SubscriptionType p {
+	font-family: arial;
+	font-weight: 200;
+	font-size: 18px;
+	color: #FFFFFF;
+	line-height: 1.75em;
+}
+
+.basic {
+	background-color: #2677FF;
+	width: 25%;
+	height: 437px;
+	border-radius: 10px;
+	float: left;
+	margin: 27px,0px,27px,0px;
+}
+
+.plus {
+	background-color: #4E65EC;
+	width: 25%;
+	height: 437px;
+	border-radius: 10px;
+	margin: 0px,27px,0px,27px;
+
+}
+
+.premium {
+	background-color: #7A30D2;
+	width: 25%;
+	height: 437px;
+	border-radius: 10px;
+	float: right;
+	margin: 0px,27px,0px,27px;
+}
+
+.signup {
+	margin-top: 30px;
+}
+
+.features {
+	background-image: url('../img/about-photo.png');
+	height:720px;
+	width:900px;
+	margin: 0px;
+	position: relative;
+}
+
+.feature {
+
+	margin: auto;
+	display: inline-block;
+	width: 25%;
+
+}
+
+.feature h1 {
+	text-align: center;
+	font-family: arial;
+	font-size: 28px;
+	color: #FFFFFF;
+	line-height: 2em;
+}
+.feature p {
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 18;
+	color: #FFFFFF;
+	line-height: 30px;
+}
+
+.allfeatures {
+	position: absolute;
+	margin-top: 270px;
+}
+
+
